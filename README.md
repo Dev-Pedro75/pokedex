@@ -2,7 +2,7 @@
 
 <h2 align='center'>About</h2>
 
-<h3 align='center'>A pokedex with the first 151 pokemons, using <a href="https://pokeapi.co/">pokeApi</a> data</h3>
+<h3 align='center'>A pokedex with the first 151 pokemons, using <a href="https://pokeapi.co/" target='_blank'>pokeApi</a> data</h3>
 
 <img src='img/gif-pokedex.gif'>
 
