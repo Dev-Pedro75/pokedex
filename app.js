@@ -14,7 +14,6 @@ function getPokemons() {
   }
 
   Promise.all(PokemonsPromise).then((pokemons) => {
-    console.log(pokemons[0]);
     pokemons.forEach(({ name, types, id }) => {
       ul.innerHTML += `
             <li class='${types[0].type.name}' onclick='openModal(${id})'>
